@@ -3,10 +3,11 @@ Android apps always face the challenge of CPU and memory threshold; therefore, t
 
 # Detect
 ## [Perfetto](https://ui.perfetto.dev/#!/record/cmdline)
-Usage details(personal experience)
-### Option1: Capture data by command line 
+
+### Option 1: Capture data by command line 
 1: setup probes(injection), then save the config.gpx
-![cpu-setup](./images/cpu-setup.png)
+
+<img src="./images/cpu-setup.png" alt="cpu-setup" width="300" height="200"/>
 
 
 ## Systrace
