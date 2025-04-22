@@ -26,9 +26,10 @@ python getTop.py com.jack.performance
 source ./venv/bin/activate
 python3 cpu-chart.py xxx.txt
 ```
-![image](./images/cpu-chart-sample.png)
 
-## tool [Perfetto](https://ui.perfetto.dev/#!/record/cmdline)
+<img src="./images/cpu-chart-sample.png" alt="top" width="300" height="200"/>
+
+## [Perfetto](https://ui.perfetto.dev/#!/record/cmdline)
 
 ### Option 1: Capture data by command line 
 1: setup probes(injection), then save the config.gpx
