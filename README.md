@@ -10,6 +10,7 @@ Android apps always face the challenge of CPU and memory threshold; therefore, t
 <img src="./images/cpu-setup.png" alt="cpu-setup" width="300" height="200"/>
 
 2: Copy and save the config.gpx
+
 <img src="./images/save-config.png" alt="cpu-config" width="300" height="200"/>
 
 **real file -> /configure/cpu-config.gpx**
